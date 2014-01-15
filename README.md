@@ -18,8 +18,7 @@ Features
 
 - Ability to use pogo pins for quick programming, or use headers for prototyping
 
-Wishlist
---------
+*Wishlist*
 
 - Integrate USB-COM support to allow target to pass messages to host via SPI
  
@@ -27,8 +26,7 @@ Wishlist
 Changelog
 ========
 
-V2
---------
+*V2*
 
 - Fix current limiting resistors being on the wrong side of the diode
 
@@ -41,8 +39,8 @@ V2
 - Improved pad layout for pogo pins
 
 
-V1
---------
+*V1*
+
 -Initial Design board layout
 
 
