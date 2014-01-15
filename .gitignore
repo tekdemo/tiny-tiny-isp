@@ -12,25 +12,19 @@
 eagle.epf
 
 # CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
-
 *.dri
 *.drl
+
+#OSHPark Gerbers
 *.gpi
-*.pls
+*.gko
+*.gt?
+*.gb?
+*.xln
 
-*.drd
-*.drd.*
+#include gerbers from the specific gerber directory
+! gerbers/*
 
-*.info
+#Save old versions, but leave them out of git
+v?
 
-*.eps
