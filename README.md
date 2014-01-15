@@ -23,7 +23,7 @@ Features
 - Integrate USB-COM support to allow target to pass messages to host via SPI
  
 
-Changelog
+Board Changelog
 ========
 
 *V2*
@@ -41,6 +41,6 @@ Changelog
 
 *V1*
 
--Initial Design board layout
+- Initial Design board layout
 
 
