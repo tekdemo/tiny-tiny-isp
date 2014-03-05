@@ -3,7 +3,7 @@
 <eagle version="6.4">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting  alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>

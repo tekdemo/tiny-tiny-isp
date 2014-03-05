@@ -28,3 +28,4 @@ eagle.epf
 #Save old versions, but leave them out of git
 v?
 
+gerber-files/
